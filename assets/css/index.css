@@ -1,0 +1,25 @@
+  body{
+            background-color: black;
+            font-family: 'Montserrat', sans-serif;
+        }
+        h1{
+            text-align:center;
+            color: white;
+            font-size: 50px;
+        }
+        img{
+            width: 200px;
+            height: 60px;
+        }
+        .p1{
+            color: grey;
+            font-size: x-large;
+            text-align: justify;
+        }
+        iframe{
+            overflow: hidden;
+            height: 350px;
+            width:440px;
+            border: 2px solid white;
+            border-radius: 20px;
+        }
